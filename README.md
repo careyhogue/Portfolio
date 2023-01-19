@@ -1,6 +1,6 @@
 A document to showcase my skills as a Web Developer
 # Portfolio
-This portfolio is a small project using HTML / CSS and Bootstrap. I will be using this to showcase my project.
+This portfolio is a small project using HTML / CSS and Bootstrap. I will be using this to showcase my projects.
 [Live Replit Deployment](https://portfolio-1.careyraesmiles.repl.co/)
 ## Technologies Used
 *HTML
